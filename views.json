@@ -107,6 +107,15 @@
       "public": true
     },
     {
+      "key": "financing",
+      "endpoint": "ui.financing",
+      "label": "Financing",
+      "group": "For organizations",
+      "blurb": "The business environment of any community area, in one printable page for a loan application.",
+      "path": "/for/financing",
+      "public": true
+    },
+    {
       "key": "report",
       "endpoint": "ui.report_page",
       "label": "Full report",
